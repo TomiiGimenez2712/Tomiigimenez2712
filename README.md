@@ -22,7 +22,7 @@ const tomiigimenez2712 = {
  
  
 ## You can find me 🌍:
-- [Twitter]|[X](https://twitter.com/tomiiGimenezx)
+- [Twitter](https://twitter.com/tomiiGimenezx)
 - [Instagram](https://instagram.com/tomii.gim)
 
 
